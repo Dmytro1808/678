@@ -389,12 +389,12 @@ header {
     text-align: center;
   }
   .cats_image {
-    top: 120px;
-    left: 54%;
-    width: 60%;
+    top: 140px;
+    left: 52%;
+    width: 55%;
   }
   .container_information {
-    gap: 333px;
+    gap: 233px;
   }
   .section_second {
     padding: 0 15px;
